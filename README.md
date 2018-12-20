@@ -1,3 +1,10 @@
+This is a docker image for raspberry pi that allows streaming of usb video and usb audio to youtube live.
+
+# Using Makefile
+
+Just run `make` and will take care the rest. Tested on WSL windows / ubuntu
+
+# Manual Installation
 
 ## Install QEMU
 
