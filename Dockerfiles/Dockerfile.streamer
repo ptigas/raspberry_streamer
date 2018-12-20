@@ -1,4 +1,4 @@
-FROM streamer
+FROM raspberry_ffmpeg
 
 RUN apt-get update && apt-get -qy install \
   libraspberrypi-bin && \
